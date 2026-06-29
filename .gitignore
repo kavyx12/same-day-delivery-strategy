@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+tokenized_access_logs.csv
